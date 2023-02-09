@@ -11,55 +11,21 @@
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=GuilhermeOrceziae" alt="访客统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 #  🙋 Hello
 
 <table>
-<tr><td>
-
-<!-- About me 关于我 -->
-### 🤺 About Me
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
-
-</td></tr>
-
-<tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-* <a href='https://blog.sunguoqi.com/archives/hello_2023' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
-* <a href='https://blog.sunguoqi.com/archives/doubanapi' target='_blank'>使用 Flask 快速构建豆瓣图书/电影海报 WebAPI</a> - 2023-01-09
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
@@ -130,12 +96,12 @@ Linux                    2 hrs 41 mins       ███░░░░░░░░�
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -193,24 +159,24 @@ Linux                    2 hrs 41 mins       ███░░░░░░░░�
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -244,35 +210,35 @@ Linux                    2 hrs 41 mins       ███░░░░░░░░�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/right.png" />
 
 <!-- Spotify 音乐 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
+  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/shin_chan.gif" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/cxyduck.gif" />&emsp;
+<img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/base.svg" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/cxyduck.gif" />
 
 <!-- My Blog 博客首页 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
-<a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/pagespeed.screenshot.svg" /></a>
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/pig.gif" />&emsp;
+<a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/pagespeed.screenshot.svg" /></a>
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/pig.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -284,53 +250,53 @@ Linux                    2 hrs 41 mins       ███░░░░░░░░�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/discussions.svg" alt="discussions" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/discussions.svg" alt="discussions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/stars.svg" alt="stars" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/GuilhermeOrceziae/GuilhermeOrceziae/assets/images/rocket.png"/>
 </div>
